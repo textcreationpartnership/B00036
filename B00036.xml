@@ -1,0 +1,611 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A [Br]ief rehersall of [the] beleef of the goodwilling [in E]nglande/ which are named, the [Fame]lie of Love/ with the confessi[on] of their vpright christen religion against/ the false accusation of their gaine-speakers / [Set]-forth Anno. 1575.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1575</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00036</idno>
+            <idno type="STC">STC 10681.5</idno>
+            <idno type="STC">ESTC S92512</idno>
+            <idno type="EEBO-CITATION">52633234</idno>
+            <idno type="OCLC">ocm 52633234</idno>
+            <idno type="VID">174036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00036)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174036)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2115:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A [Br]ief rehersall of [the] beleef of the goodwilling [in E]nglande/ which are named, the [Fame]lie of Love/ with the confessi[on] of their vpright christen religion against/ the false accusation of their gaine-speakers / [Set]-forth Anno. 1575.</title>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>N. Bohmberg],</publisher>
+                  <pubPlace>[Cologne :</pubPlace>
+                  <date>1575.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from STC (2nd ed.).</note>
+                  <note>Signatures: A⁸ (last leaf blank).</note>
+                  <note>Imperfect: tightly bound, with loss of text; bracketed materail conjectured by catalogers.</note>
+                  <note>Reproduction of original in: Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Familists --  England --  Early works to 1800.</term>
+               <term>Christian sects --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174036:3" rendition="simple:additions"/>
+            <p>A <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rief Reherſall of Beleef of the Goodwilling <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nglande / which are named / the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>elie of Loue / with the Confeſſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of their vpright chriſten Re<g ref="char:EOLhyphen"/>ligion / againſt the falſe Accuſation of their Gaine-ſpeakers.</p>
+            <p>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>t-fourth ANNO. 1575.</p>
+            <q>
+               <p>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ndemne noman before thou knoweſt <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ier: Knowe it firſt, and then rebuke.</p>
+               <p>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e no Iudgment before thou haſt heard <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and let men firſt tel-out their Tales.</p>
+               <bibl>Eccli. 11.</bibl>
+            </q>
+            <pb facs="tcp:174036:2"/>
+            <pb facs="tcp:174036:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174036:4"/>
+            <pb facs="tcp:174036:4"/>
+            <head>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto all Goodwillinge which <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oue God &amp; his Righteouſnes, Saluation and Peace.</head>
+            <p>FOraſmuch as wee are bruted &amp; defamed with ma<g ref="char:EOLhyphen"/>ny-maner of falſe Reportes and Eyes / by certen maliti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and ſlaunderous Perſons; that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as-yet communed with vs of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch Thing<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as they criminate &amp; <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rge vs with-all; to the great De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nge and Hindering of vs / and our <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>od-name and Fame / amonge ſuch <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whom wee reſt as-yet vnknowen / that they mought therby bring vs <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o a Contempt and Obloquie / and make vs deteſtable and monſterous <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>re the Eyes of y<hi rend="sup">e</hi> Common-people: alſo haue mooued; with ſuch their underous Reportes; the ſpirituall <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulers or Maieſtrates / to caſt ſome is into Priſon / and driue<g ref="char:cmbAbbrStroke">̄</g> vs ther<g ref="char:EOLhyphen"/>through
+<pb facs="tcp:174036:5"/>to great Trouble and Char<g ref="char:EOLhyphen"/>ges / wher-as men haue not iuſtlie to blame, accuſe, detect, or burden vs / as Tranſgreſſours of the Lawe (be-it againſt any of the Queene-her Ma<g ref="char:EOLhyphen"/>ieſti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Proceedinges in Cauſes Eccle<g ref="char:EOLhyphen"/>ſiaſticall / or-els in her politike Lawes of Gouernement in Cauſes Tem<g ref="char:EOLhyphen"/>porall) but haue alwayes ſhewe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ourſelues (life as it becometh leig<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Subiectes to doo) to liue and wall in all dutifull Obedience; loyallie towardes theſame / and applyed o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> endeuoured vs; to the vttereſt of ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Power; to the Fulfillinge of the R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>quiring therof / if wee mought be rig<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lie tryed therin / by the Voyce of th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Countrie wheare wee dwell / and I ſuch as knowe vs / or with whom w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haue had to deale / and not by y<hi rend="sup">e</hi> M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>litious / which enuie vs in our W<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dooinge and Reaſonable-dealinge<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> So are wee therfore; out of ſpeci<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb facs="tcp:174036:5"/>occaſion; mooued and vrged [to the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter anſwering and ſatiſfying of all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aieſtrates both ſpirituall and tem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>all / and of ſuch as are reſonablie<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inded / and that reſt-doutfull of our <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight Cauſe (more for that they <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ue not any iuſt Intelligence of the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e Caſe and State of theſame / then <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that they reſt whollie ſtayed vpon <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch friuolous, vnſeemlie, and vntrue <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rutes as go-fourth againſt vs) <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat they mought thinke therof <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lie; as heere inſueth; to ſet-downe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> extract or ſhort Note / both of the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rticles of our chriſten Beleef / as al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> the Grounde of our ſynceere Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gion and ſounde Profeſſion.</p>
+            <div type="part">
+               <head>Deus Charitas eſt.</head>
+               <p>GEeing then that it is meet &amp; requiſite / that euery vpright <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eleeuer in <hi>Ieſu Chriſt</hi> / render an
+<pb facs="tcp:174036:6"/>Anſwere of his Faith / when hee is required therto (being falſlie accuſed<g ref="char:punc">▪</g> contrarie to his right Beleef) / ſo can wee not therfore omit / to confeſſe and acknowledge our vpright and true Faith / againſt all thoſe that vniuſtlie accuſe vs / in our right Beleef.</p>
+               <p>Firſt-of-all / wee acknowledg and confeſſe / that wee knowe nor hold<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not of anye other Beleef / then tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which is required by the Propheates of God / out of the Lawe of the Lord / and wheron the holie Apoſtles and Euangeliſtes of <hi>Ieſu Chriſt,</hi> haue buylded and ſtood-grounded / and lik<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as theſame is alſo taught &amp; confeſſed by the Communialtie of the Saincte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Ieſu Chriſt.</hi>
+               </p>
+               <p>For wee beleeue in the liuing God of Heauen, the Father almightie / and the true Maker of Heaue<g ref="char:cmbAbbrStroke">̄</g> and Earth.</p>
+               <p>And wee beleeue in <hi>Ieſus Chriſt<g ref="char:punc">▪</g>
+                  </hi> his onlie Sonne, our Lorde: which was
+<pb facs="tcp:174036:6"/>conceaued by the Holie-goſt and borne of the Virgin <hi>Marie:</hi> Hee ſuf<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>d paſſion vnder <hi>Pontius Pilate:</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> crucified, dead, and buryed / and <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ended into Hell: and the thirde <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y / Hee roſe-againe from y<hi rend="sup">e</hi> Death: <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> aſcended to the Heauens / and <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>are Hee ſitteth at the Right-hand <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God / his Father almightie: From <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ence wee beleeue Hee is to com / to <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ge both the Quicke and the Dead. And wee beleeue in the Holie-goſt: <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e holie Catholike-church / the Com<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nion of Sainctes: the Remiſſion Sinnes: the Reſurrection of the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odye: and the Life euerlaſtinge.<lb/> 
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>men.</hi>
+               </p>
+               <p>WEE acknowledg likewiſe / the Father / to be God / vncrea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d and eternall / a ſtronge or mightie <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pirit / a perfect cleere Light / and a <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ue Beeinge or Subſtaunce: and <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at theſame true Beeinge, is hys
+<pb facs="tcp:174036:7"/>Name / and the Loue itſelf.</p>
+               <p>Mee acknowledge alſo, y<hi rend="sup">e</hi> Sonn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be God, out of God / of the very-lik<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Beeinge; or very-ſame Subſtaunce of his Father / the very true and onlie begotten Sonne of God / begotte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fro<g ref="char:cmbAbbrStroke">̄</g> Euerlaſtingnes / and; in the Ful<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nes of the tyme; borne of a Virgin out of the Seede of <hi>Dauid</hi> according to the Fleaſh: the Sonne of Man: the Sauiour of the Worlde: the tru<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Meſſias:</hi> a Mediatour alone / be<g ref="char:EOLhyphen"/>twixt God and Man: In whoſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Name onlie (and in none-other) we<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> obtaine Saluation / and the Remiſ<g ref="char:EOLhyphen"/>ſion of our Sinnes.</p>
+               <p>Wee acknowledge likewiſe, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> holie-goſt to be God (as proceeding from God the Father and his Sonne <hi>Ieſus Chriſt</hi>) and the true Spirit of God: the Comforter: and the Dyle or Annoyntinge, wherwithall God annoynteth his elected People ether
+<pb facs="tcp:174036:7"/>Ho<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e-church. For They are, out of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Grace of God the Father; vnde<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ed; redeemed, iuſtified, and made-<gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> through the Croſſe / Death / Paſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> / and Bloud-ſheaddinge of <hi>Ieſu <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riſt:</hi> Which Holie-goſt / doth di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> and leade all his Annoynted, in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Trueth. For They onlie / are <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> true circumciſed <hi>Iſraelites</hi> out of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Faith of <hi>Abraham,</hi> or the right <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>riſtians, through the Satiſfacti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of <hi>Chriſt,</hi> in the Holie of the true <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abernacle / wherin they daylie take<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> their Croſſe on them, with Him / <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d followe-after <hi>Chriſt,</hi> in all God<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>nes and Trueth / to the Purginge <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Sinnes, til-into his Loue: In <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hom alſo y<hi rend="sup">e</hi> Spirit of <hi>Chriſt,</hi> dwel<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth, liueth, and woorketh / and not <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtenlie; in Any-other.</p>
+               <p>FArdermore / wee beleeue and acknowledge, concerninge this <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e-onelie liuinge God (the Father / 
+<pb facs="tcp:174036:8"/>Sonne / and Holie-goſt / with y<hi rend="sup">e</hi> Com<g ref="char:EOLhyphen"/>munialtie of his Sainctes) all and e<g ref="char:EOLhyphen"/>uerye Part that is writen &amp; confeſſed (by the holie Fathers) in the olde and new Teſtament, of or concerning the ſame Godhead / to be a Thinge moſt. true / &amp; very-needfull that euery Chri<g ref="char:EOLhyphen"/>ſtian beleeue, acknowledg, and confeſſe theſame / and alſo liue therin. So do wee in like-maner acknowledg, all the reſt of holie Scripture aforeſaide / as likewiſe all what-euer accordeth with the Minde of y<hi rend="sup">e</hi> ſame (being ſet-fourth and inſtituted by holie Fathers, out of the true Light) to be an vpright, godlie, and healthſom Doctrine / and ſo ought to be take<g ref="char:cmbAbbrStroke">̄</g> and acknowledged of all Chriſtians: But All whatſoe<g ref="char:EOLhyphen"/>uer accordeth not therwith, that hold wee not for any-thing neceſſarie vnto Saluation / but rather for that which proceedeth out of y<hi rend="sup">e</hi> Mans Imagina<g ref="char:EOLhyphen"/>tio<g ref="char:cmbAbbrStroke">̄</g> / &amp; not out of the Spirit of <hi>Chriſt.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:174036:8"/>
+               <head>Now follovveth the Confeſſion of our Religion.</head>
+               <p>CONſideringe the great Loue of God towardes vs and Mankinde / in that Hee hath cre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> the Man like-vnto his owne I<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ge / as alſo ſett him in the Fulnes <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ife: and how that Hee hath more <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (when wee were becom his Ene<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s; through the Tranſgreſſing of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Woord; and Children of Death) <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e farder extended his Loue tow<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es vs / and ſent his onlie Sonne <hi>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>us Chriſt</hi> into this World / which <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th; to our Attonement; ſuffered the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eath of the Croſſe, which wee our<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>es were giltie in: When wee <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w conſider all this great Loue ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ded on vs / ſo are wee mooued to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Him againe / ſtanding euenſo <hi>Re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ati</hi> or bound-againe [&amp; ſo <hi>Religi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>] to loue y<hi rend="sup">e</hi> ſame God of Life, with
+<pb facs="tcp:174036:9"/>all our Heart / Soule / and Migh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and alſo our Neighbour as ourſelue<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> And for-that-cauſe, to thend that w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mought vprightlie ſhewe-fourth th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſame, both in the Deede and Truet<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wee reade the holie Scripture of t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Propheates and Apoſtles of <hi>Chriſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and all other Bookes which exhor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vs vnto ſuch an vpright Life / &amp; Lo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of God and our Neighbour: not <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſinge any other Ceremonies / Lawe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Statutes nor Sacramentes of Ba<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tiſme and Supper-of-y<hi rend="sup">e</hi>-lord / then ſu<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> as are miniſtred in y<hi rend="sup">e</hi> Church of En<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lande. And to that ende obey wee a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/> ſo our ſoueraigne Ladie, the Quee<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and y<hi rend="sup">e</hi> Maieſtrates; our Fore-goer<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> both ſpirituall and temporall: <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that of God-his behalf / and euen <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our Conſcience and the Peaces can <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> payinge all Tribute vnto theſe-ſ<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Maieſtrates: liuinge obedientlie a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſubiectlie; euen as it is meete &amp; rig<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <pb facs="tcp:174036:9"/>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Lawes: and alſo dealing <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all Men vprightlie, faithfullie, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> charitablie (euen-like as wee our<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> wolde gladlie be dealt-withall <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eir Handes) keepinge likewiſe <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with Al-men / ſo farre as is poſ<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> for vs. And this wee holde to be <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fulfillinge both of the Lawe and <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>heates / as likewiſe the Doctrine <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>word <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hriſt</hi> and his Apoſtles (as is <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>) contayned in the Olde &amp; New <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tament. And our Conſcience bea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s recorde / that all ſuch Single<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>dones ought to be defended by <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Gouernours, from all Iniuſtice and Tirannical oppreſſion.</p>
+               <p>THiſſame is; finallie; the Con<g ref="char:EOLhyphen"/>tentes of our Beleef / and the <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>nde of our Religion, brieflie de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> / and what wee acknowledge <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>onfeſſe concerning theſame, euen <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Bottom of our Heartes: and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> alſo required of eueryone; tho<g ref="char:EOLhyphen"/>rough
+<pb facs="tcp:174036:10"/>the gratious Woorde of Lif<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Seruice of the Loue of <hi>Ieſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Chriſt:</hi> and not els-what. And w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thinke this our Confeſſinge; heere<g ref="char:EOLhyphen"/>witneſſed; to be ſufficient before <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> chriſtian Maieſtrates, both ſpiritu<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> and temporall / and for all Reſon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ble-men. Hoping alſo therfore (ina<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>much as wee endeuour vs to liue ſu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>iectlike and peaceablie vnder our Pr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ces Lawes) that our Cauſe ſhall <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with Iuſtice; conſidered, to a R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>leaſſinge of vs from this our Subie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tiued-bondage of Straightnes / P<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>turbation / and great Charges, wh<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>in wee now are bewrapped and ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> without iuſt cauſe of our part deſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ued. <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <closer>Let eueryone conſider and waye our Cauſe vp<g ref="char:EOLhyphen"/>rightlie.</closer>
+            <pb facs="tcp:174036:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
